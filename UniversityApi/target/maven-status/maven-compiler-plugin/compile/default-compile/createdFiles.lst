@@ -1,0 +1,4 @@
+com/example/universityapi/service/UniversityService.class
+com/example/universityapi/controller/UniversityController.class
+com/example/universityapi/UniversityApiApplication.class
+com/example/universityapi/model/University.class
