@@ -1,6 +1,6 @@
 package com.example.search.service;
 
-import com.example.common.domain.GeneralResponse;
+
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
